@@ -41,7 +41,7 @@
                 <div style="font-size:2.6em; color:#FEF002;">新概念吃豆</div><br />
                 <div style="font-size:2.2em; color:#fff; line-height:1.5em;">
                     帮助小红豆完成被吃掉的梦想<br />
-                    看看你20秒能帮助多少颗红豆<br />
+                    看看你20秒能帮助多少小红豆<br />
                 </div>
                 <br />
                 <div id="btn_group" style="display: block;">
